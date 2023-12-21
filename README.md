@@ -47,7 +47,7 @@ Movie Detail
 
 <img src="https://github.com/majdirabeh/Movies-Trailer-Compose/blob/master/Screenshots/detail.png" style=" width:100px ; height:150px " />
 
-Exo Player View
+Youtube Player View
 
 <img src="https://github.com/majdirabeh/Movies-Trailer-Compose/blob/master/Screenshots/YoutubePlayer.png" style=" width:100px ; height:150px " />
 
