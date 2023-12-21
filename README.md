@@ -41,15 +41,15 @@ Juste clone le projet
 
 List Movies
 
-<img src="https://github.com/majdirabeh/Movies-Trailer-Compose/blob/main/Screenshots/list.png" style=" width:100px ; height:150px " />
+<img src="https://github.com/majdirabeh/Movies-Trailer-Compose/blob/master/Screenshots/list.png" style=" width:100px ; height:150px " />
 
 Movie Detail
 
-<img src="https://github.com/majdirabeh/Movies-Trailer-Compose/blob/main/Screenshots/detail.png" style=" width:100px ; height:150px " />
+<img src="https://github.com/majdirabeh/Movies-Trailer-Compose/blob/master/Screenshots/detail.png" style=" width:100px ; height:150px " />
 
 Exo Player View
 
-<img src="https://github.com/majdirabeh/Movies-Trailer-Compose/blob/main/Screenshots/YoutubePlayer.png" style=" width:100px ; height:150px " />
+<img src="https://github.com/majdirabeh/Movies-Trailer-Compose/blob/master/Screenshots/YoutubePlayer.png" style=" width:100px ; height:150px " />
 
 
 ## Versions
